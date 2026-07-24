@@ -13,7 +13,8 @@
 - Video Gallery
 - Admin Panel
 - Android App
-package.json {
+package.json
+{
   "name": "tenaliraman-news",
   "version": "1.0.0",
   "private": true,
