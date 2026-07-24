@@ -1,1 +1,1 @@
-# tenaliraman--news
+# tenaliraman.news
