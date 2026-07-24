@@ -13,4 +13,18 @@
 - Video Gallery
 - Admin Panel
 - Android App
-package.json
+package.json {
+  "name": "tenaliraman-news",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.3.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
