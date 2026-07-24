@@ -13,3 +13,4 @@
 - Video Gallery
 - Admin Panel
 - Android App
+package.json
